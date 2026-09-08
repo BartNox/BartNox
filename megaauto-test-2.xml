@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ogloszenia>
+  <ogloszenie>
+    <dane>
+      <id>TEST-XML-002</id>
+      <tytul>TEST XML URL 002 - WERSJA 1</tytul>
+      <tekst><![CDATA[<p>Drugi test synchronizacji MegaAuto przez stały URL. Wersja 1.</p>]]></tekst>
+      <kategoria>1088</kategoria>
+    </dane>
+  </ogloszenie>
+</ogloszenia>
