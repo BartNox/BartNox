@@ -3,8 +3,8 @@
   <ogloszenie>
     <dane>
       <id>TEST-XML-001</id>
-      <tytul>TEST XML URL 001 - WERSJA 2</tytul>
-      <tekst><![CDATA[<p>Test synchronizacji MegaAuto przez stały URL. Wersja 2.</p>]]></tekst>
+      <tytul>TEST XML URL 001 - WERSJA 3</tytul>
+      <tekst><![CDATA[<p>Test synchronizacji MegaAuto przez stały URL. Wersja 3.</p>]]></tekst>
       <kategoria>1088</kategoria>
     </dane>
   </ogloszenie>
